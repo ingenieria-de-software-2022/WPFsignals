@@ -1,0 +1,17 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\bin\Debug\WPFsignals.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\bin\Debug\WPFsignals.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\bin\Debug\WPFsignals.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\WPFsignals.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\WPFsignals.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\MainWindow.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\App.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\WPFsignals_MarkupCompile.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\WPFsignals_MarkupCompile.lref
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\MainWindow.baml
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\WPFsignals.g.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\WPFsignals.Form1.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\WPFsignals.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\WPFsignals.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\WPFsignals.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\WPFsignals.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFsignals\WPFsignals\obj\Debug\WPFsignals.pdb
